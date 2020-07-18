@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olverajunior2014@gmail.com)](mailto:olverajunior2014@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-olverajunior2014@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olverajunior2014@gmail.com)](mailto:olverajunior2014@gmail.com)
 
 🔭 I am currently a Full Stack Developer at FinanZero, working mainly with mobile development, user experience and cloud infrastructure. I also work in two more places separately
 
