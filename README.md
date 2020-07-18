@@ -1,7 +1,8 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Francisco%20Olvera-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-olvera-relirk/)](https://www.linkedin.com/in/francisco-olvera-relirk/)
 [![Gmail Badge](https://img.shields.io/badge/-olverajunior2014@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olverajunior2014@gmail.com)](mailto:olverajunior2014@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Relirk%20Software-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/relirk-software/)](https://github.com/relirk-software/)
+[![Github Badge](https://img.shields.io/badge/-Relirk%20Software-5F43BB?style=flat-square&logo=Github&logoColor=white&link=https://github.com/relirk-software/)](https://github.com/relirk-software/)
+[![Github Badge](https://img.shields.io/badge/-FinanZero-05bcb4?style=flat-square&logo=Github&logoColor=white&link=https://github.com/finanzero/)](https://github.com/finanzero/)
 
 🔭 I am currently a Full Stack Developer at FinanZero, working mainly with mobile development, user experience and cloud infrastructure. I also work in two more places separately
 
