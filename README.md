@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Francisco%20Olvera-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-olvera-relirk//)](https://www.linkedin.com/in/francisco-olvera-relirk/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Francisco%20Olvera?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-olvera-relirk//)](https://www.linkedin.com/in/francisco-olvera-relirk/)
+
 [![Gmail Badge](https://img.shields.io/badge/-olverajunior2014@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olverajunior2014@gmail.com)](mailto:olverajunior2014@gmail.com)
 
 🔭 I am currently a Full Stack Developer at FinanZero, working mainly with mobile development, user experience and cloud infrastructure. I also work in two more places separately
