@@ -12,6 +12,7 @@
 Graduation in Computer Science and Postgraduate in Mobile Development Applications, IOT, Chatbots and Virtual Assistants by FIAP.
 I love creating new products and innovative strategies using the newest technologies in open-minded and goal-focused companies.
 
+
 My meeting point is the intersection of Creativity + Productivity + User Experience.
 
 Are we going to invent something that makes sense in people's lives?
