@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-FinanZero-544290?style=flat-square&logo=Github&logoColor=white&link=https://github.com/finanzero/)](https://github.com/finanzero/)
 [![Github Badge](https://img.shields.io/badge/-Relirk%20Software-544290?style=flat-square&logo=Github&logoColor=white&link=https://github.com/relirk-software/)](https://github.com/relirk-software/)
 
-<h3 style="text-align: center;">Hi there 👋 Let's code? :computer:</h3>
+<h3 style="text-align: center;">Hi there 👋 Let's code? :computer:</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 <table boder="0" style="border: 0">
 <tr  style="text-align: center; border: 0">  
