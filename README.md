@@ -21,7 +21,7 @@ Are we going to invent something that makes sense in people's lives?
 </table>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/francisco-olvera-relirk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Relirk" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/francisco-olvera-relirk/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Relirk" height="20" width="20" /></a>
 <a href="https://twitter.com/fran_relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Relirk" height="20" width="20" /></a>
 <a href="https://www.facebook.com/fran.junior1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Relirk" height="20" width="20" /></a>
 <a href="https://www.instagram.com/franciscoolvera.ts/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Relirk" height="20" width="20" /></a>
