@@ -7,16 +7,19 @@
 <h3 style="text-align: center;">Hi there 👋 Let's code? :computer:</h3>
 
 <table boder="0" style="border: 0">
-<tr  style="text-align: center; border: 0">
-<td  style="text-align: center; border: 0">
-  
-My meeting point is the intersection of Creativity + Productivity + User Experience.
+<tr  style="text-align: center; border: 0">  
+    <td  style="text-align: center; border: 0">
+        My meeting point is the intersection of Creativity + Productivity + User Experience.
 
-Graduation in Computer Science and Postgraduate in Mobile Development Applications, IOT, Chatbots and Virtual Assistants by FIAP.
-I love creating new products and innovative strategies using the newest technologies in open-minded and goal-focused companies.
+        Graduation in Computer Science and Postgraduate in Mobile Development Applications, IOT, Chatbots and Virtual Assistants by FIAP.
+        I love creating new products and innovative strategies using the newest technologies in open-minded and goal-focused companies.
 
-Are we going to invent something that makes sense in people's lives?
-  
-</td>
+        Are we going to invent something that makes sense in people's lives?
+    </td  style="text-align: center; border: 0">
+
+    <td>
+        <img width="auto" height="170px" src="https://github.com/tgmarinho/tgmarinho/blob/master/anime.gif?raw=true">
+    </td>
+</tr>
 </table>
 
