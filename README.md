@@ -16,10 +16,6 @@ I love creating new products and innovative strategies using the newest technolo
 
 Are we going to invent something that makes sense in people's lives?
 </td  style="text-align: center; border: 0">
-
-<td>
-<img width="170px" height="170px" src="https://github.com/tgmarinho/tgmarinho/blob/master/anime.gif?raw=true">
-</td>
 </tr>
 </table>
 
