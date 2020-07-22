@@ -10,11 +10,10 @@
 <table boder="0" style="border: 0">
 <tr  style="text-align: center; border: 0">  
 <td  style="text-align: center; border: 0">
+My meeting point is the intersection of Creativity + Productivity + User Experience.
+
 Graduation in Computer Science and Postgraduate in Mobile Development Applications, IOT, Chatbots and Virtual Assistants by FIAP.
 I love creating new products and innovative strategies using the newest technologies in open-minded and goal-focused companies.
-
-
-My meeting point is the intersection of Creativity + Productivity + User Experience.
 
 Are we going to invent something that makes sense in people's lives?
 </td  style="text-align: center; border: 0">
@@ -22,12 +21,12 @@ Are we going to invent something that makes sense in people's lives?
 </table>
 
 <p align="center">
-<a href="https://codepen.io/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://twitter.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://codesandbox.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://fb.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://twitter.com/fran_relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Relirk" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/francisco-olvera-relirk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Relirk" height="20" width="20" /></a>
+<a href="https://www.facebook.com/fran.junior1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Relirk" height="20" width="20" /></a>
+<a href="https://www.instagram.com/franciscoolvera.ts/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Relirk" height="20" width="20" /></a>
 </p>
 
+<!-- <a href="https://stackoverflow.com/Relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Relirk" height="20" width="20" /></a> -->
+<!-- <a href="https://codesandbox.com/Relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Relirk" height="20" width="20" /></a> -->
+<!-- <a href="https://codepen.io/Relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Relirk" height="20" width="20" /></a> -->
