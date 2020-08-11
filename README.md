@@ -4,7 +4,6 @@
 [![Github Badge](https://img.shields.io/badge/-FinanZero-544290?style=flat-square&logo=Github&logoColor=white&link=https://github.com/finanzero/)](https://github.com/finanzero/)
 [![Github Badge](https://img.shields.io/badge/-Relirk%20Software-544290?style=flat-square&logo=Github&logoColor=white&link=https://github.com/relirk-software/)](https://github.com/relirk-software/)
 
-<h3 style="text-align: center;">Hi there 👋 Let's code? :computer:</h3> 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Relirk" alt="Relirk" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
