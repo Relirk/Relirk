@@ -21,6 +21,6 @@ Are we going to invent something that makes sense in people's lives?
 </table>
 
 <img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
-<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&theme=buefy" />
+<img width="120px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&theme=buefy" />
 
 
