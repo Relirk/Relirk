@@ -5,7 +5,18 @@
 [![Github Badge](https://img.shields.io/badge/-Relirk%20Software-544290?style=flat-square&logo=Github&logoColor=white&link=https://github.com/relirk-software/)](https://github.com/relirk-software/)
 
 <h3 style="text-align: center;">Hi there 👋 Let's code? :computer:</h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Relirk" alt="Relirk" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Relirk" alt="Relirk" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="50" height="50"/>
+</p>
+
 
 My meeting point is the intersection of Creativity + Productivity + User Experience.
 
