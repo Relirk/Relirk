@@ -14,13 +14,14 @@ My meeting point is the intersection of Creativity + Productivity + User Experie
 
 Graduation in Computer Science and Postgraduate in Mobile Development Applications, IOT, Chatbots and Virtual Assistants by FIAP.
 I love creating new products and innovative strategies using the newest technologies in open-minded and goal-focused companies.
+
 Are we going to invent something that makes sense in people's lives?
 </td  style="text-align: center; border: 0">
 </tr>
 </table>
 
-<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
-<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+<img width="555px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
+<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&theme=material-palenight" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/francisco-olvera-relirk/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Relirk" height="20" width="20" /></a>
