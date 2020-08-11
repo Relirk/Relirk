@@ -20,7 +20,7 @@ Are we going to invent something that makes sense in people's lives?
 </tr>
 </table>
 
-<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
-<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&theme=material-palenight" />
+<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
+<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&theme=material-palenight" />
 
 
