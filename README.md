@@ -23,14 +23,4 @@ Are we going to invent something that makes sense in people's lives?
 <img width="555px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
 <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&theme=material-palenight" />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/francisco-olvera-relirk/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Relirk" height="20" width="20" /></a>
-<a href="https://twitter.com/fran_relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Relirk" height="20" width="20" /></a>
-<a href="https://www.facebook.com/fran.junior1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Relirk" height="20" width="20" /></a>
-<a href="https://www.instagram.com/franciscoolvera.ts/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Relirk" height="20" width="20" /></a>
-</p>
 
-<!-- <img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&hide=html&layout=compact" /> -->
-<!-- <a href="https://stackoverflow.com/Relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Relirk" height="20" width="20" /></a> -->
-<!-- <a href="https://codesandbox.com/Relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Relirk" height="20" width="20" /></a> -->
-<!-- <a href="https://codepen.io/Relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Relirk" height="20" width="20" /></a> -->
