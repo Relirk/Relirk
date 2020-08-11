@@ -14,7 +14,7 @@ I love creating new products and innovative strategies using the newest technolo
 
 Are we going to invent something that makes sense in people's lives?
 
-<img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&theme=buefy" />
+<img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=nightowl &show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
+<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&theme=nightowl " />
 
 
