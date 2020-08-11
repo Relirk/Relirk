@@ -19,16 +19,8 @@ Are we going to invent something that makes sense in people's lives?
 </tr>
 </table>
 
-<table width=100%">
-<tr>
-<td>
-<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=material-palenight&show_icons=true" />
-</td>
-<td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" /></td>
-</tr>
-</table>
-
-
+<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
+<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/francisco-olvera-relirk/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Relirk" height="20" width="20" /></a>
