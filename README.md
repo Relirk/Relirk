@@ -4,15 +4,14 @@
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Relirk" alt="Relirk" />
-<a href="https://www.linkedin.com/in/francisco-olvera-relirk/">
-<img src="https://img.shields.io/badge/-Francisco%20Olvera-544290?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-olvera-relirk/"/>
-</a>
-</p>
+<a href="https://www.linkedin.com/in/francisco-olvera-relirk/"><img src="https://img.shields.io/badge/-Francisco%20Olvera-544290?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-olvera-relirk/"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Francisco%20Olvera-544290?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-olvera-relirk/)](https://www.linkedin.com/in/francisco-olvera-relirk/)
-[![Gmail Badge](https://img.shields.io/badge/-olverajunior2014@gmail.com-544290?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olverajunior2014@gmail.com)](mailto:olverajunior2014@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-FinanZero-544290?style=flat-square&logo=Github&logoColor=white&link=https://github.com/finanzero/)](https://github.com/finanzero/)
-[![Github Badge](https://img.shields.io/badge/-Relirk%20Software-544290?style=flat-square&logo=Github&logoColor=white&link=https://github.com/relirk-software/)](https://github.com/relirk-software/)
+<a href="mailto:olverajunior2014@gmail.com"><img src="https://img.shields.io/badge/-olverajunior2014@gmail.com-544290?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olverajunior2014@gmail.com"/></a>
+
+<a href="https://github.com/finanzero/"><img src="https://img.shields.io/badge/-FinanZero-544290?style=flat-square&logo=Github&logoColor=white&link=https://github.com/finanzero/"/></a>
+
+<a href="https://github.com/relirk-software/"><img src="https://img.shields.io/badge/-Relirk%20Software-544290?style=flat-square&logo=Github&logoColor=white&link=https://github.com/relirk-software/"/></a>
+</p>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Relirk" alt="Relirk" />
