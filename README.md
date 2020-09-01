@@ -30,7 +30,15 @@ I love creating new products and innovative strategies using the newest technolo
 
 Are we going to invent something that makes sense in people's lives?
 
-<img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=material-palenight&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&theme=material-palenight" />
+<img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&theme=&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" />
+<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&theme=" />
+
+<p align="center">
+<a href="https://codepen.io/relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="relirk" height="20" width="20" /></a>
+<a href="https://twitter.com/fran_relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="relirk" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/francisco-olvera-relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="relirk" height="20" width="20" /></a>
+<a href="https://fb.com/fran.junior1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="relirk" height="20" width="20" /></a>
+<a href="https://instagram.com/franciscoolvera.ts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="relirk" height="20" width="20" /></a>
+</p>
 
 
