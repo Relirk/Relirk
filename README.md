@@ -30,8 +30,8 @@ I love creating new products and innovative strategies using the newest technolo
 
 Are we going to invent something that makes sense in people's lives?
 
-<img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs" alt="relirk"/>
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relirk&layout=compact" />
+<img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919" alt="relirk"/>
+<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919" />
 
 <p align="center">
 <a href="https://codepen.io/relirk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="relirk" height="30" width="30" /></a>
