@@ -30,6 +30,8 @@ I love creating new products and innovative strategies using the newest technolo
 
 Are we going to invent something that makes sense in people's lives?
 
+<a href="https://www.buymeacoffee.com/Relirk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
 <img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919" alt="relirk"/>
 <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919" />
 
