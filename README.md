@@ -3,7 +3,7 @@
 ![Francisco Olvera](https://firebasestorage.googleapis.com/v0/b/portifoil-bcd7d.appspot.com/o/company-logos%2Fgithub-header.png?alt=media&token=53044c51-3322-469a-8649-63f79d5f7997)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Relirk" alt="Relirk" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Relirk" alt="Relirk" /> -->
 <a href="https://www.linkedin.com/in/francisco-olvera-relirk/" target="_blank"><img src="https://img.shields.io/badge/-Francisco%20Olvera-544290?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-olvera-relirk/"/></a>
 <a href="mailto:olverajunior2014@gmail.com"><img src="https://img.shields.io/badge/-olverajunior2014@gmail.com-544290?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olverajunior2014@gmail.com"/></a>
 <a href="https://github.com/finanzero/"><img src="https://img.shields.io/badge/-FinanZero-544290?style=flat-square&logo=Github&logoColor=white&link=https://github.com/finanzero/"/></a>
@@ -32,7 +32,7 @@ Are we going to invent something that makes sense in people's lives?
 
 <a href="https://www.buymeacoffee.com/Relirk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-<!-- <img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919" alt="relirk"/> -->
+<img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=relirk&show_icons=true&include_all_commits=true&count_private=true&&hide=issues,prs&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919" alt="relirk"/>
 <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relirk&layout=compact&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919" />
 
 <p align="center">
