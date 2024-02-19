@@ -1,10 +1,10 @@
 
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/francisco-olvera-relirk/">
+  <a href="https://www.linkedin.com/in/francisco-olvera-relirk/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:olverajunior2014@gmail.com">
+  <a href="mailto:olverajunior2014@gmail.com"  target="_blank">
     <img src="https://img.shields.io/badge/olverajunior2014%40gmail.com-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=000000" alt="Gmail Badge"/>
   </a>
 </div>
