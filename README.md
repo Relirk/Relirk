@@ -19,7 +19,9 @@ My greatest passion is game development <3
 
 Are we going to invent something that makes sense in people's lives?
 
-<a href="https://www.buymeacoffee.com/Relirk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<!-- <a href="https://www.buymeacoffee.com/Relirk" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" >
+</a> -->
 
 ---
 
